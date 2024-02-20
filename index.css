@@ -1,0 +1,14 @@
+.container {
+    border: 5px solid;
+    text-align: center;
+    width: 500px;
+    height: 300px;
+}
+
+.classboard {
+    font-size: 100px;
+}
+
+button{
+    font-size : 35px;
+}
